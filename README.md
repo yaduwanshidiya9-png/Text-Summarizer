@@ -65,7 +65,7 @@ pip install -r requirements.txt
 ### 1. Run the web app
 
 ```bash
-python app.py
+uvicorn app:app --reload
 ```
 
 - Application local URL (example): `http://127.0.0.1:5000/`  
