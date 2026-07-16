@@ -102,5 +102,5 @@ Install them using:
 pip install -r requirements.txt
 ```
 
-**Diya Yaduwansh**  
+**Diya Yaduwanshi**  
 GitHub: [@yaduwanshidiya9-png](https://github.com/yaduwanshidiya9-png)
